@@ -85,7 +85,7 @@ public class WriterInfo {
 
         //Вывод информации об объектах класса Trousers
         T1.PrintHead();
-        System.out.format(" %-22s|","Remember Nirvana");
+        System.out.format(" %-22s|","Yellow Side of Art");
         System.out.format(" %-22s",T1.Manufacturer);
         System.out.format("| %-15s",T1.Style);
         System.out.format("| %-8s",T1.Price);
@@ -95,7 +95,7 @@ public class WriterInfo {
             System.out.format("| %-17s"," ");
         System.out.println();
 
-        System.out.format(" %-22s|","Romance");
+        System.out.format(" %-22s|","Spirit of Freedom");
         System.out.format(" %-22s",T2.Manufacturer);
         System.out.format("| %-15s",T2.Style);
         System.out.format("| %-8s",T2.Price);
@@ -105,7 +105,7 @@ public class WriterInfo {
             System.out.format("| %-17s"," ");
         System.out.println();
 
-        System.out.format(" %-22s|","Warm Date");
+        System.out.format(" %-22s|","Tired");
         System.out.format(" %-22s",T3.Manufacturer);
         System.out.format("| %-15s",T3.Style);
         System.out.format("| %-8s",T3.Price);
